@@ -10,10 +10,10 @@
 window.SITE_DATA = {
   /* ---------- 站点基本信息 ---------- */
   meta: {
-    brand: { zh: "廖亚铎", en: "Liao Yaduo" },
+    brand: { zh: "yaduo", en: " },
     logoText: "LYD",
     footerNote: {
-      zh: "用 HTML / CSS / JavaScript 手写 · 托管于 GitHub Pages",
+      zh: "用 HTML / CSS / JavaScript AI生成 · 托管于 GitHub Pages",
       en: "Handcrafted with HTML / CSS / JavaScript · Hosted on GitHub Pages",
     },
     imageCredit: {
